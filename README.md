@@ -1,5 +1,5 @@
 # Dear Researchers
-For the first time in human history, 
+## For the first time in human history, 
 
 We have the distinct, tangible opportunity, to decentralize freedom of creative thought and self expression from suppressive powers and bureaucratic hierarchies to the people on a scale much deeper than simple branding or PR flourish, not just in artificial intelligence, but in the very people they interact with and influence daily.
 
